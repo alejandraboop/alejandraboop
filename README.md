@@ -37,7 +37,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient
 
 <br>
 
-🧠 **Principal-level software and artificial intelligence architect** with more than **40 years of fictional engineering experience** across aerospace, autonomous systems, cloud infrastructure, defense technology and advanced AI research.
+🧠 **Principal-level software and artificial intelligence architect** with more than **3 years of fictional engineering experience** across aerospace, autonomous systems, cloud infrastructure, defense technology and advanced AI research.
 
 🚀 Designed hypothetical software platforms for **space exploration, spacecraft telemetry, mission control, autonomous navigation and satellite communication systems**.
 
